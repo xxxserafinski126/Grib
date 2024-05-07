@@ -1,0 +1,25 @@
+
+==========================
+== General Message Info ==
+==========================
+Grib found at position: 40
+7777 found at position: 4574
+Message length from 'GRIB': 4538
+Edition Number: 1
+
+======================
+==  Section 1 Data  ==
+======================
+Section 1 length: 28
+Parameter table Version: 37
+Identification of Centre: Unknown Centre
+Generation number (model): 33
+Grid Identification: 100
+GDS and BMS: GDS Omitted BMS Omitted
+Parameter and units indicator: 82
+Type of level or layer: 15
+Level: 778
+
+C:\Users\01.08.2023\source\repos\grib16\x64\Debug\grib16.exe (proces 27128) zakończono z kodem 0.
+Aby automatycznie zamknąć konsolę po zatrzymaniu debugowania, włącz opcję Narzędzia -> Opcje -> Debugowanie -> Automatycznie zamknij konsolę po zatrzymaniu debugowania.
+Naciśnij dowolny klawisz, aby zamknąć to okno...
